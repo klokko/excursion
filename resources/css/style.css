@@ -17,3 +17,14 @@ html {
 body {
     text-align: center;
 }
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.caption {
+    color: gray;
+    font-size: 21px;
+}
